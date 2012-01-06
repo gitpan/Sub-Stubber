@@ -45,7 +45,7 @@ no strict 'refs';
 no warnings 'redefine';
 
 our %PkgCache;
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 
 sub get_object {
